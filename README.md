@@ -18,9 +18,9 @@ In python fake news detection project, I use the following libraries: <br />
 ![](Images/flow.png)
 # Screenshot
 ## Fake News
-![](Images/fake.png)
+
 ## Not Fake News
-![](Images/Not-Fake.png)
+
 
 
 
