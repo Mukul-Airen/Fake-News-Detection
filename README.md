@@ -16,12 +16,16 @@ In python fake news detection project, I use the following libraries: <br />
 
 # Workflow
 ![](Images/flow.png)
+# Scope and Importance of the Project
+This project will contribute to the start of a new revolution against one of the most prevalent hazard i.e. spread of the Fake News. It will serve as root and branch eradication of the same. This project will help to create a next level of awareness and make the citizens more responsible. This project will help the people of a nation to take meaningful and informed decisions.
 # Screenshot
 ## Fake News
 ![](Images/fake.png)
 
 ## Not Fake News
 ![](Images/real.png)
+
+
 
 
 
