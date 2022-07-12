@@ -8,10 +8,19 @@ Fake news's simple meaning is to incorporate information that leads people to th
 
 # Tools and Libraries
 In python fake news detection project, I use the following libraries: <br />
+* Jupyter Notebook.   <br />
 * Python.  <br />
 * Pandas.  <br />
 * Numpy.    <br />
 * Scikit-learn.   <br />
+
+# Workflow
+![](Images/flow.png)
+# Screenshot
+## Fake News
+![](Images/fake.png)
+## Not Fake News
+![](Images/Not-Fake.png)
 
 
 
